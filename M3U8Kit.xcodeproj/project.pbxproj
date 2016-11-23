@@ -26,7 +26,6 @@
 		99F4F5011DE5A0D800CD27C2 /* M3U8SegmentInfoList.h in Headers */ = {isa = PBXBuildFile; fileRef = 7685670516A4398E00AB5011 /* M3U8SegmentInfoList.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		99F4F5021DE5A0D800CD27C2 /* NSString+m3u8.h in Headers */ = {isa = PBXBuildFile; fileRef = 7685670716A4398E00AB5011 /* NSString+m3u8.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		99F4F5031DE5A0D800CD27C2 /* NSURL+m3u8.h in Headers */ = {isa = PBXBuildFile; fileRef = 7685670916A4398E00AB5011 /* NSURL+m3u8.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		99F4F5041DE5A1BC00CD27C2 /* M3U8Kit-Prefix.pch in Headers */ = {isa = PBXBuildFile; fileRef = 768566F616A4397100AB5011 /* M3U8Kit-Prefix.pch */; settings = {ATTRIBUTES = (Public, ); }; };
 		99F4F5051DE5A1BC00CD27C2 /* M3U8KitFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = 99F4F4D61DE59D9F00CD27C2 /* M3U8KitFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
@@ -212,7 +211,6 @@
 				99F4F5001DE5A0D800CD27C2 /* M3U8SegmentInfo.h in Headers */,
 				99F4F5011DE5A0D800CD27C2 /* M3U8SegmentInfoList.h in Headers */,
 				99F4F5021DE5A0D800CD27C2 /* NSString+m3u8.h in Headers */,
-				99F4F5041DE5A1BC00CD27C2 /* M3U8Kit-Prefix.pch in Headers */,
 				99F4F5051DE5A1BC00CD27C2 /* M3U8KitFramework.h in Headers */,
 				99F4F5031DE5A0D800CD27C2 /* NSURL+m3u8.h in Headers */,
 			);
@@ -285,6 +283,7 @@
 				TargetAttributes = {
 					99F4F4D31DE59D9F00CD27C2 = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = U6F4S77A68;
 						ProvisioningStyle = Automatic;
 					};
 					99F4F4DB1DE59D9F00CD27C2 = {
@@ -463,6 +462,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = U6F4S77A68;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -512,6 +512,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = U6F4S77A68;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
