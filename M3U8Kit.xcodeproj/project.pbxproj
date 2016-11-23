@@ -481,6 +481,7 @@
 				MTL_ENABLE_DEBUG_INFO = YES;
 				OTHER_LDFLAGS = "-all_load";
 				PRODUCT_BUNDLE_IDENTIFIER = com.ichunqiu.M3U8KitFramework;
+				PRODUCT_MODULE_NAME = M3U8Kit;
 				PRODUCT_NAME = M3U8Kit;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -529,6 +530,7 @@
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "-all_load";
 				PRODUCT_BUNDLE_IDENTIFIER = com.ichunqiu.M3U8KitFramework;
+				PRODUCT_MODULE_NAME = M3U8Kit;
 				PRODUCT_NAME = M3U8Kit;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -636,6 +638,7 @@
 				99F4F4E61DE59D9F00CD27C2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		99F4F4EA1DE59D9F00CD27C2 /* Build configuration list for PBXNativeTarget "M3U8KitFrameworkTests" */ = {
 			isa = XCConfigurationList;
@@ -644,6 +647,7 @@
 				99F4F4E81DE59D9F00CD27C2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

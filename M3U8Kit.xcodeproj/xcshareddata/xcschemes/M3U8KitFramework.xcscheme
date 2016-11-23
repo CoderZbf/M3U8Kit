@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "99F4F4D31DE59D9F00CD27C2"
-               BuildableName = "M3U8KitFramework.framework"
+               BuildableName = "M3U8Kit.framework"
                BlueprintName = "M3U8KitFramework"
                ReferencedContainer = "container:M3U8Kit.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "99F4F4D31DE59D9F00CD27C2"
-            BuildableName = "M3U8KitFramework.framework"
+            BuildableName = "M3U8Kit.framework"
             BlueprintName = "M3U8KitFramework"
             ReferencedContainer = "container:M3U8Kit.xcodeproj">
          </BuildableReference>
@@ -65,7 +65,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "99F4F4D31DE59D9F00CD27C2"
-            BuildableName = "M3U8KitFramework.framework"
+            BuildableName = "M3U8Kit.framework"
             BlueprintName = "M3U8KitFramework"
             ReferencedContainer = "container:M3U8Kit.xcodeproj">
          </BuildableReference>
@@ -83,7 +83,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "99F4F4D31DE59D9F00CD27C2"
-            BuildableName = "M3U8KitFramework.framework"
+            BuildableName = "M3U8Kit.framework"
             BlueprintName = "M3U8KitFramework"
             ReferencedContainer = "container:M3U8Kit.xcodeproj">
          </BuildableReference>
